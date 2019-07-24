@@ -1,0 +1,17 @@
+#stage > canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+  /* width: 500px;
+  height: 300px; */
+}
+#stage {
+  position: absolute;
+  left: 40%;
+  top: 150px;
+  /* transform: translateX(-50%); */
+}
+
+body {
+  background-color: #282c34;
+}
